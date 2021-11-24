@@ -1,0 +1,11 @@
+D:\Visual\signal\signal\bin\Debug\signal.exe.config
+D:\Visual\signal\signal\bin\Debug\signal.exe
+D:\Visual\signal\signal\bin\Debug\signal.pdb
+D:\Visual\signal\signal\obj\Debug\signal.csproj.AssemblyReference.cache
+D:\Visual\signal\signal\obj\Debug\signal.csproj.SuggestedBindingRedirects.cache
+D:\Visual\signal\signal\obj\Debug\signal.Form1.resources
+D:\Visual\signal\signal\obj\Debug\signal.Properties.Resources.resources
+D:\Visual\signal\signal\obj\Debug\signal.csproj.GenerateResource.cache
+D:\Visual\signal\signal\obj\Debug\signal.csproj.CoreCompileInputs.cache
+D:\Visual\signal\signal\obj\Debug\signal.exe
+D:\Visual\signal\signal\obj\Debug\signal.pdb

@@ -1,0 +1,14 @@
+D:\Visual\kehuduan\kehuduan\bin\Debug\net6.0\kehuduan.exe
+D:\Visual\kehuduan\kehuduan\bin\Debug\net6.0\kehuduan.deps.json
+D:\Visual\kehuduan\kehuduan\bin\Debug\net6.0\kehuduan.runtimeconfig.json
+D:\Visual\kehuduan\kehuduan\bin\Debug\net6.0\kehuduan.dll
+D:\Visual\kehuduan\kehuduan\bin\Debug\net6.0\ref\kehuduan.dll
+D:\Visual\kehuduan\kehuduan\bin\Debug\net6.0\kehuduan.pdb
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\kehuduan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\kehuduan.AssemblyInfoInputs.cache
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\kehuduan.AssemblyInfo.cs
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\kehuduan.csproj.CoreCompileInputs.cache
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\kehuduan.dll
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\ref\kehuduan.dll
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\kehuduan.pdb
+D:\Visual\kehuduan\kehuduan\obj\Debug\net6.0\kehuduan.genruntimeconfig.cache

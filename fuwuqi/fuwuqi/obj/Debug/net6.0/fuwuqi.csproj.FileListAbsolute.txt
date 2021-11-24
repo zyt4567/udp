@@ -1,0 +1,15 @@
+D:\Visual\fuwuqi\fuwuqi\bin\Debug\net6.0\fuwuqi.exe
+D:\Visual\fuwuqi\fuwuqi\bin\Debug\net6.0\fuwuqi.deps.json
+D:\Visual\fuwuqi\fuwuqi\bin\Debug\net6.0\fuwuqi.runtimeconfig.json
+D:\Visual\fuwuqi\fuwuqi\bin\Debug\net6.0\fuwuqi.dll
+D:\Visual\fuwuqi\fuwuqi\bin\Debug\net6.0\ref\fuwuqi.dll
+D:\Visual\fuwuqi\fuwuqi\bin\Debug\net6.0\fuwuqi.pdb
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.csproj.AssemblyReference.cache
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.AssemblyInfoInputs.cache
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.AssemblyInfo.cs
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.csproj.CoreCompileInputs.cache
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.dll
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\ref\fuwuqi.dll
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.pdb
+D:\Visual\fuwuqi\fuwuqi\obj\Debug\net6.0\fuwuqi.genruntimeconfig.cache
